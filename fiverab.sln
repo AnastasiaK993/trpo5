@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fiverab", "fiverab.csproj", "{661DD191-C9EB-4FEB-90E7-5B154F23E63D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{661DD191-C9EB-4FEB-90E7-5B154F23E63D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661DD191-C9EB-4FEB-90E7-5B154F23E63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661DD191-C9EB-4FEB-90E7-5B154F23E63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661DD191-C9EB-4FEB-90E7-5B154F23E63D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E47CE136-989F-4470-89E3-0A6A7FCB19D5}
+	EndGlobalSection
+EndGlobal

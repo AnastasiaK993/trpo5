@@ -1,0 +1,7 @@
+C:\Users\st310-03\Desktop\кивалкина\fiverab\bin\Debug\fiverab.exe.config
+C:\Users\st310-03\Desktop\кивалкина\fiverab\bin\Debug\fiverab.exe
+C:\Users\st310-03\Desktop\кивалкина\fiverab\bin\Debug\fiverab.pdb
+C:\Users\st310-03\Desktop\кивалкина\fiverab\obj\Debug\fiverab.csproj.AssemblyReference.cache
+C:\Users\st310-03\Desktop\кивалкина\fiverab\obj\Debug\fiverab.csproj.CoreCompileInputs.cache
+C:\Users\st310-03\Desktop\кивалкина\fiverab\obj\Debug\fiverab.exe
+C:\Users\st310-03\Desktop\кивалкина\fiverab\obj\Debug\fiverab.pdb
